@@ -1,4 +1,5 @@
 1) How to implement the validation of incoming requests using the Spring Framework and process only those with a custom header "X-VERSION" containing the version of the mobile client, which is greater than a specified value?
+
 Answer: package com.knzv.khrsn.demo.interceptor.RequestHeaderCheckInterceptor   --->   Registered in package com.knzv.khrsn.demo.config.WebMvcConfig
 
 
